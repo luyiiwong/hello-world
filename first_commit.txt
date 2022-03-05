@@ -1,3 +1,6 @@
 Lu Yii Wong
 
 What is my favorite color?
+
+My favorite color is green.
+
